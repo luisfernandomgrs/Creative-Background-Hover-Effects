@@ -8,7 +8,6 @@ const DOM = {
         {
             mySpan = document.createElement('span');
             DOM.sectionContainer.appendChild(mySpan);
-            console.log(i);
         }
     }
 }
