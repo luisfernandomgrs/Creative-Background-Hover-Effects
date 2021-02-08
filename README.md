@@ -13,4 +13,3 @@
 
 <h2>Confira este projeto nesta url</h2>
 
-https://luisfernandomgrs.github.io/Creative-Background-Hover-Effects/
