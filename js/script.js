@@ -4,7 +4,7 @@ const DOM = {
 
     replicateSpan()
     {
-        for (var i = 1; i < 800; i++)
+        for (var i = 1; i < 1200; i++)
         {
             mySpan = document.createElement('span');
             DOM.sectionContainer.appendChild(mySpan);
